@@ -1,5 +1,8 @@
 # vue-template-firebase
 
+## Pre requisite
+make sure you have [`Node.js`](https://nodejs.org/en/download/) installed and also [`vue-cli`](https://cli.vuejs.org/guide/installation.html)
+
 ## Project setup
 ```
 npm install
