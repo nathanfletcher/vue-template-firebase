@@ -21,8 +21,7 @@ $ npm install -g vue-cli                          # Install vue-cli if you haven
 $ vue init nathanfletcher/vue-template-firebase   # Create a new project based on this template
 $ cd my-project                                   # Navigate into your new project folder
 
-$ npm install -g live-server                      # Install live-server if you haven't already
-$ live-server                                     # Run live-server and open it in your browser
+//At this point, go to the readme withing the template to continue with the tutorial
 ```
 
 ### Fork It And Make Your Own
