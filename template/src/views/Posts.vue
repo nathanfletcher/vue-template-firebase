@@ -5,6 +5,7 @@
 </template>
 
 <script>
+    /* eslint-disable */
     import firebase from '../Firebase.js'
     export default {
         name: 'posts',
